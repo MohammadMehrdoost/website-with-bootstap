@@ -1,0 +1,22 @@
+* {
+    font-family: vazir;
+}
+
+.top {
+    background-color: #0078AA;
+    height: 5vh;
+}
+
+.color-1 {
+    background-color: #3AB4F2;
+}
+
+.color-2 {
+    background-color: #0078AA;
+}
+.nav-link:hover{
+    color: #0078AA;
+}
+.img-radius{
+    border-radius: 0.5rem;
+}
